@@ -1,17 +1,11 @@
-- 👋 Hi, I’m @evvisen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Evelina! 👋
 
-<!---
-evvisen/evvisen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@evvisen/30-nites-of-code)  
-  ![@evvisen #30NitesOfCode](https://www.codedex.io/api/petStatus?user=evvisen)
+I am a Fullstack JavaScript Developer student at IT-Högskolan in Gothenburg, currently transitioning from a career in finance to the world of tech.
 
-  
+### About Me
+- **Education:** Currently studying Fullstack Development. I hold an **MSc in Business and Economics**.
+- **Background:** Former private adviser in **Banking**, bringing analytical thinking and a business-driven mindset to software development. 
+- **Learning by doing:** Actively solving challenges on **Frontend Mentor** to sharpen my frontend skills on the side of school.
+
+---
+**How to reach me:** www.linkedin.com/in/evelinahultquist
